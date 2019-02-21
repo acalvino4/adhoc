@@ -1,9 +1,9 @@
 # adhoc
 A practice Bootstrap 4 website.
 
-I built this webpage as specified by *adhoc+design+spec.png* with the bootstrap framework.
+I built this webpage as specified by *adhoc+design+spec.png* with Bootstrap.
 
-View at https://acalvino4.github.io/adhoc
+View at https://acalvino4.github.io/adhoc.
 
 ### Possible future modifications
 
